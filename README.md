@@ -1,4 +1,4 @@
-# negotiable
+# Negotiable
 
 ## Project setup
 ```
