@@ -76,6 +76,8 @@ export default {
 
 <!-- Global CSS -->
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Lato');
+
   body {
     color: rgb(255, 255, 255);
     background: rgb(0, 0, 0);
